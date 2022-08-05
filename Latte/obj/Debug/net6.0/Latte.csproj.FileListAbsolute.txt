@@ -1,0 +1,15 @@
+/Users/chris/Desktop/Latte/bin/Debug/net6.0/Latte
+/Users/chris/Desktop/Latte/bin/Debug/net6.0/Latte.deps.json
+/Users/chris/Desktop/Latte/bin/Debug/net6.0/Latte.runtimeconfig.json
+/Users/chris/Desktop/Latte/bin/Debug/net6.0/Latte.dll
+/Users/chris/Desktop/Latte/bin/Debug/net6.0/Latte.pdb
+/Users/chris/Desktop/Latte/obj/Debug/net6.0/Latte.csproj.AssemblyReference.cache
+/Users/chris/Desktop/Latte/obj/Debug/net6.0/Latte.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chris/Desktop/Latte/obj/Debug/net6.0/Latte.AssemblyInfoInputs.cache
+/Users/chris/Desktop/Latte/obj/Debug/net6.0/Latte.AssemblyInfo.cs
+/Users/chris/Desktop/Latte/obj/Debug/net6.0/Latte.csproj.CoreCompileInputs.cache
+/Users/chris/Desktop/Latte/obj/Debug/net6.0/Latte.dll
+/Users/chris/Desktop/Latte/obj/Debug/net6.0/refint/Latte.dll
+/Users/chris/Desktop/Latte/obj/Debug/net6.0/Latte.pdb
+/Users/chris/Desktop/Latte/obj/Debug/net6.0/Latte.genruntimeconfig.cache
+/Users/chris/Desktop/Latte/obj/Debug/net6.0/ref/Latte.dll
